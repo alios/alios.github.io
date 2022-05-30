@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="54mm"
+   height="42mm"
+   viewBox="0 0 54 42"
+   version="1.1"
+   id="svg3014"
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   sodipodi:docname="lambda-cube-is.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3016"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="4.3908235"
+     inkscape:cx="100.09512"
+     inkscape:cy="79.370078"
+     inkscape:window-width="1512"
+     inkscape:window-height="917"
+     inkscape:window-x="0"
+     inkscape:window-y="65"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs3011" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="LambdaCube"
+       transform="matrix(0.30105538,0,0,-0.30105538,26.333266,21.306958)">
+      <title
+         id="title1330">Lambda Cube</title>
+      <g
+         id="Beschriftungen"
+         style="display:inline">
+        <title
+           id="title1332">Beschriftungen Lambda Cube</title>
+        <text
+           id="text40"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.9626px;font-family:'Iosevka Etoile';-inkscape-font-specification:'Iosevka Etoile, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="scale(1,-1)"
+           x="-35.924"
+           y="-63.372002"><tspan
+             id="tspan38"
+             y="-63.372002"
+             x="-35.924 -30.112816"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.9626px;font-family:'Iosevka Etoile';-inkscape-font-specification:'Iosevka Etoile, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">λω</tspan></text>
+        <text
+           id="text64"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.9626px;font-family:'Iosevka Etoile';-inkscape-font-specification:'Iosevka Etoile, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="scale(1,-1)"
+           x="71.330002"
+           y="-63.372002"><tspan
+             id="tspan62"
+             y="-63.372002"
+             x="71.330002 77.141182"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.9626px;font-family:'Iosevka Etoile';-inkscape-font-specification:'Iosevka Etoile, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">λC</tspan></text>
+        <text
+           id="text84"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.9626px;font-family:'Iosevka Etoile';-inkscape-font-specification:'Iosevka Etoile, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="scale(1,-1)"
+           x="-85.736"
+           y="-19.337"><tspan
+             id="tspan82"
+             y="-19.337"
+             x="-85.736"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.9626px;font-family:'Iosevka Etoile';-inkscape-font-specification:'Iosevka Etoile, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">λ</tspan></text>
+        <text
+           id="text88"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.9626px;font-family:'Iosevka Etoile';-inkscape-font-specification:'Iosevka Etoile, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="scale(1,-1)"
+           x="-79.925003"
+           y="-19.337"><tspan
+             id="tspan86"
+             y="-19.337"
+             x="-79.925003"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.9626px;font-family:'Iosevka Etoile';-inkscape-font-specification:'Iosevka Etoile, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">2</tspan></text>
+        <text
+           id="text112"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.9626px;font-family:'Iosevka Etoile';-inkscape-font-specification:'Iosevka Etoile, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="scale(1,-1)"
+           x="12.976"
+           y="-19.337"><tspan
+             id="tspan110"
+             y="-19.337"
+             x="12.976 18.787184"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.9626px;font-family:'Iosevka Etoile';-inkscape-font-specification:'Iosevka Etoile, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">λP</tspan></text>
+        <text
+           id="text116"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.9626px;font-family:'Iosevka Etoile';-inkscape-font-specification:'Iosevka Etoile, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="scale(1,-1)"
+           x="26.566999"
+           y="-19.337"><tspan
+             id="tspan114"
+             y="-19.337"
+             x="26.566999"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.9626px;font-family:'Iosevka Etoile';-inkscape-font-specification:'Iosevka Etoile, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">2</tspan></text>
+        <text
+           id="text140"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.9626px;font-family:'Iosevka Etoile';-inkscape-font-specification:'Iosevka Etoile, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="scale(1,-1)"
+           x="-35.924"
+           y="24.698999"><tspan
+             id="tspan138"
+             y="24.698999"
+             x="-35.924 -30.112816"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.9626px;font-family:'Iosevka Etoile';-inkscape-font-specification:'Iosevka Etoile, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">λω</tspan></text>
+        <path
+           id="path144"
+           style="fill:none;stroke:#000000;stroke-width:0.398;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m -30.112,-26.094 h 6.559" />
+        <text
+           id="text168"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.9626px;font-family:'Iosevka Etoile';-inkscape-font-specification:'Iosevka Etoile, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="scale(1,-1)"
+           x="68.077003"
+           y="24.698999"><tspan
+             id="tspan166"
+             y="24.698999"
+             x="68.077003 73.888184 81.668976"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.9626px;font-family:'Iosevka Etoile';-inkscape-font-specification:'Iosevka Etoile, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">λPω</tspan></text>
+        <path
+           id="path172"
+           style="fill:none;stroke:#000000;stroke-width:0.398;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 81.669,-26.094 h 6.559" />
+        <text
+           id="text192"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.9626px;font-family:'Iosevka Etoile';-inkscape-font-specification:'Iosevka Etoile, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="scale(1,-1)"
+           x="-88.226997"
+           y="68.735001"><tspan
+             id="tspan190"
+             y="68.735001"
+             x="-88.226997"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.9626px;font-family:'Iosevka Etoile';-inkscape-font-specification:'Iosevka Etoile, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">λ</tspan></text>
+        <text
+           id="text196"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.9626px;font-family:'Iosevka Etoile';-inkscape-font-specification:'Iosevka Etoile, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="scale(1,-1)"
+           x="-82.415001"
+           y="68.735001"><tspan
+             id="tspan194"
+             y="68.735001"
+             x="-82.415001"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.9626px;font-family:'Iosevka Etoile';-inkscape-font-specification:'Iosevka Etoile, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">→</tspan></text>
+        <text
+           id="text220"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.9626px;font-family:'Iosevka Etoile';-inkscape-font-specification:'Iosevka Etoile, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="scale(1,-1)"
+           x="15.466"
+           y="68.735001"><tspan
+             id="tspan218"
+             y="68.735001"
+             x="15.466 21.277184"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.9626px;font-family:'Iosevka Etoile';-inkscape-font-specification:'Iosevka Etoile, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">λP</tspan></text>
+      </g>
+      <g
+         id="Cube"
+         style="display:inline">
+        <g
+           id="g230">
+          <path
+             id="path232"
+             style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             d="M -20.03418,66.0542 H 60.92348" />
+          <g
+             transform="translate(60.92348,66.0542)"
+             id="g234">
+            <g
+               id="g236">
+              <path
+                 id="path238"
+                 style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="M 5.87146,0 C 5.1504,0.14133 1.98094,0.94218 0,1.81369 V -1.81369 C 1.98094,-0.94218 5.1504,-0.14133 5.87146,0 Z" />
+            </g>
+          </g>
+        </g>
+        <g
+           id="g240">
+          <path
+             id="path242"
+             style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             d="M -71.42479,22.01807 H 2.56822" />
+          <g
+             transform="translate(2.56822,22.01807)"
+             id="g244">
+            <g
+               id="g246">
+              <path
+                 id="path248"
+                 style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="M 5.87146,0 C 5.1504,0.14133 1.98094,0.94218 0,1.81369 V -1.81369 C 1.98094,-0.94218 5.1504,-0.14133 5.87146,0 Z" />
+            </g>
+          </g>
+        </g>
+        <g
+           id="g250">
+          <path
+             id="path252"
+             style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             d="M -71.98294,29.29121 -43.289,54.25972" />
+          <g
+             transform="matrix(0.75444,0.65646,-0.65646,0.75444,-43.289,54.25972)"
+             id="g254">
+            <g
+               id="g256">
+              <path
+                 id="path258"
+                 style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="M 5.87146,0 C 5.1504,0.14133 1.98094,0.94218 0,1.81369 V -1.81369 C 1.98094,-0.94218 5.1504,-0.14133 5.87146,0 Z" />
+            </g>
+          </g>
+        </g>
+        <g
+           id="g260">
+          <path
+             id="path262"
+             style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             d="M -29.73921,-14.7449 V 51.89362" />
+          <g
+             transform="rotate(90,-40.816415,11.077205)"
+             id="g264">
+            <g
+               id="g266">
+              <path
+                 id="path268"
+                 style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="M 5.87146,0 C 5.1504,0.14133 1.98094,0.94218 0,1.81369 V -1.81369 C 1.98094,-0.94218 5.1504,-0.14133 5.87146,0 Z" />
+            </g>
+          </g>
+        </g>
+        <g
+           id="g270">
+          <path
+             id="path272"
+             style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             d="M -20.03418,-22.01805 H 57.67068" />
+          <g
+             transform="translate(57.67068,-22.01805)"
+             id="g274">
+            <g
+               id="g276">
+              <path
+                 id="path278"
+                 style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="M 5.87146,0 C 5.1504,0.14133 1.98094,0.94218 0,1.81369 V -1.81369 C 1.98094,-0.94218 5.1504,-0.14133 5.87146,0 Z" />
+            </g>
+          </g>
+        </g>
+        <g
+           id="g280">
+          <path
+             id="path282"
+             style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             d="M -80.34113,-58.78104 V 7.85748" />
+          <g
+             transform="rotate(90,-44.099305,-36.241825)"
+             id="g284">
+            <g
+               id="g286">
+              <path
+                 id="path288"
+                 style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="M 5.87146,0 C 5.1504,0.14133 1.98094,0.94218 0,1.81369 V -1.81369 C 1.98094,-0.94218 5.1504,-0.14133 5.87146,0 Z" />
+            </g>
+          </g>
+        </g>
+        <g
+           id="g290">
+          <path
+             id="path292"
+             style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             d="M -71.98294,-58.78104 -43.289,-33.81253" />
+          <g
+             transform="matrix(0.75444,0.65646,-0.65646,0.75444,-43.289,-33.81253)"
+             id="g294">
+            <g
+               id="g296">
+              <path
+                 id="path298"
+                 style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="M 5.87146,0 C 5.1504,0.14133 1.98094,0.94218 0,1.81369 V -1.81369 C 1.98094,-0.94218 5.1504,-0.14133 5.87146,0 Z" />
+            </g>
+          </g>
+        </g>
+        <g
+           id="g300">
+          <path
+             id="path302"
+             style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             d="M -68.9341,-66.05418 H 5.05891" />
+          <g
+             transform="translate(5.05891,-66.05418)"
+             id="g304">
+            <g
+               id="g306">
+              <path
+                 id="path308"
+                 style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="M 5.87146,0 C 5.1504,0.14133 1.98094,0.94218 0,1.81369 V -1.81369 C 1.98094,-0.94218 5.1504,-0.14133 5.87146,0 Z" />
+            </g>
+          </g>
+        </g>
+        <g
+           id="g310">
+          <path
+             id="path312"
+             style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             d="M 78.15315,-14.7449 V 51.89362" />
+          <g
+             transform="rotate(90,13.129765,65.023385)"
+             id="g314">
+            <g
+               id="g316">
+              <path
+                 id="path318"
+                 style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="M 5.87146,0 C 5.1504,0.14133 1.98094,0.94218 0,1.81369 V -1.81369 C 1.98094,-0.94218 5.1504,-0.14133 5.87146,0 Z" />
+            </g>
+          </g>
+        </g>
+        <g
+           id="g320">
+          <path
+             id="path322"
+             style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             d="M 31.49377,29.29121 63.49562,54.50247" />
+          <g
+             transform="matrix(0.7885,0.62122,-0.62122,0.7885,63.4956,54.50247)"
+             id="g324">
+            <g
+               id="g326">
+              <path
+                 id="path328"
+                 style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="M 5.87146,0 C 5.1504,0.14133 1.98094,0.94218 0,1.81369 V -1.81369 C 1.98094,-0.94218 5.1504,-0.14133 5.87146,0 Z" />
+            </g>
+          </g>
+        </g>
+        <g
+           id="g330">
+          <path
+             id="path332"
+             style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             d="m 31.49377,-58.78104 32.00185,25.21126" />
+          <g
+             transform="matrix(0.7885,0.62122,-0.62122,0.7885,63.4956,-33.56978)"
+             id="g334">
+            <g
+               id="g336">
+              <path
+                 id="path338"
+                 style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="M 5.87146,0 C 5.1504,0.14133 1.98094,0.94218 0,1.81369 V -1.81369 C 1.98094,-0.94218 5.1504,-0.14133 5.87146,0 Z" />
+            </g>
+          </g>
+        </g>
+        <g
+           id="g340">
+          <path
+             id="path342"
+             style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             d="M 22.26196,-58.78104 V 7.85748" />
+          <g
+             transform="rotate(90,7.20224,15.05972)"
+             id="g344">
+            <g
+               id="g346">
+              <path
+                 id="path348"
+                 style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="M 5.87146,0 C 5.1504,0.14133 1.98094,0.94218 0,1.81369 V -1.81369 C 1.98094,-0.94218 5.1504,-0.14133 5.87146,0 Z" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
