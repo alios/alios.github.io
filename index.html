@@ -50,28 +50,40 @@
 </head>
 
 <body>
-  <img src="img/lambda-cube-is.svg" alt="Lambda Cube" />
 
-  <div>
-    <h1>alios engineering</h1>
+  <div style="margin: 10px;">
+    <div>
+      <img src="img/lambda-cube-is.svg" alt="Lambda Cube" style="float: left" />
+      <h1>alios engineering</h1>
+      <hr />
+    </div>
 
-    <hr />
+    <div>
+      <p>
+        Hard- and software development. Embedded and functional Programming.
+      </p>
 
-    <p>
-      Hard- and software development. Embedded and functional Programming.
-    </p>
+      <hr />
 
-    <address>
-      Im Schlossgarten 9<br />
-      D-87737 Boos<br />
-      Germany
-    </address>
+      <address itemscope itemtype="http://microformats.org/profile/hcard" style="float: left; margin-top:20px;">
+        <div itemprop="org"><span itemprop="organization-name" style="font-weight: bold;">alios engineering</span></div>
+        <span itemprop="adr" itemscope>
+          <span itemprop="street-address">Im Schlossgarten 9</span> <br/>
+          <span itemprop="postal-code">87737</span>
+          <span itemprop="locality">Boos</span> <br />
+          <span itemprop="country-name">Germany</span>
+        </span><br />
+        Contact: Markus Barenhoff<br/>
+        <label for="phone">Phone:</label> <a id="phone" itemprop="tel" href="tel:+49-1573-2423911">+49-1573-2423911</a><br />
+        <label for="mail">Mail: </label><a id="mail" itemprop="email" href="mailto:engineering.alios.org">engineering@alios.org</a><br />
+        <label for="web">Web: </label><a id="web" itemprop="url" href="https://www.alios.org">https://www.alios.org</a><br />
+      </address>
+
+    </div>
+
+    <script src="js/vendor/modernizr-3.11.2.min.js"></script>
+    <script src="js/plugins.js"></script>
+    <script src="js/main.js"></script>
   </div>
-
-  <script src="js/vendor/modernizr-3.11.2.min.js"></script>
-  <script src="js/plugins.js"></script>
-  <script src="js/main.js"></script>
-
 </body>
-
 </html>
